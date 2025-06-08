@@ -7,7 +7,7 @@
     "dev": "nodemon"
   },
   "keywords": [],
-  "author": "",
+  "author": "Salamander-81",
   "license": "ISC",
   "description": "",
   "dependencies": {
@@ -27,5 +27,6 @@
     "@types/node-telegram-bot-api": "^0.64.8",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
-  }
+  },
+  "engines": {"node": "22.14.0"}
 }
